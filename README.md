@@ -79,7 +79,7 @@ After hyperparameter tuning and cross-validation, the **Random Forest** model em
 | XGBoost             | 0.8725          |
 | Logistic Regression | 0.8638          |
 
-_**[INSERT YOUR COMPARATIVE ROC CURVE IMAGE HERE]**_
+![Curva ROC Comparativa](comparative-roc-curve-for-models.png)
 
 ### **4.2. Key Predictive Features & Business Insights**
 1. **Past Engagement is the #1 Predictor:**  
@@ -99,12 +99,12 @@ _**[INSERT YOUR COMPARATIVE ROC CURVE IMAGE HERE]**_
 ## **5. 🚀 Setup & Execution**
 
 ### **5.1. Repository Structure**
+- `classification_customer_acceptance.ipynb` – Main notebook with all analysis and modeling  
+- `README.md` – Project documentation (this file)  
+- `requirements.txt` – Project dependencies
 
-📦 Customer-Personality-Classification
-┣ 📜 classification_customer_acceptance.ipynb # Main notebook with all analysis and modeling
-┣ 📜 README.md # Project documentation (this file)
-┗ 📜 requirements.txt # Project dependencies
 
+---
 
 ### **5.2. Dependencies**
 This project requires Python 3 and the libraries listed in `requirements.txt`. You can install them using pip:  
@@ -116,6 +116,7 @@ Alternatively, install them manually:
 ```bash
 pip install pandas numpy seaborn matplotlib scikit-learn xgboost
 ```
+---
 
 ### 5.3. Instructions
 
@@ -129,6 +130,10 @@ cd Customer-Personality-Classification
 - Ensure the dataset marketing_campaign.csv is in the root directory.
 - Open and run the Jupyter Notebook classification_customer_acceptance.ipynb. Run the cells sequentially to replicate the analysis.
 
+---
+
 ### 6. 📬 Contact
 
-Sthefanie Ferreira de S. D. Otaviano [LinkedIn](linkedin.com/in/sthefanie-ferreira-de-s-d-otaviano-976a59206)
+**Sthefanie Otaviano**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/sthefanie-ferreira-de-s-d-otaviano-976a59206)
