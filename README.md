@@ -79,7 +79,7 @@ After hyperparameter tuning and cross-validation, the **Random Forest** model em
 | XGBoost             | 0.8746          |
 | Logistic Regression | 0.8642          |
 
-![Curva ROC Comparativa](comparative-roc-curve-for-models.png)
+![Curva ROC Comparativa]()
 
 ### **4.2. Key Predictive Features & Business Insights**
 1. **Past Engagement is the #1 Predictor:**  
