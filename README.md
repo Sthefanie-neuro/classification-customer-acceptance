@@ -75,9 +75,9 @@ After hyperparameter tuning and cross-validation, the **Random Forest** model em
 
 | Model               | Best CV ROC AUC |
 | :------------------ | :-------------- |
-| **Random Forest**   | **0.8779**      |
-| XGBoost             | 0.8725          |
-| Logistic Regression | 0.8638          |
+| **Random Forest**   | **0.8797**      |
+| XGBoost             | 0.8746          |
+| Logistic Regression | 0.8642          |
 
 ![Curva ROC Comparativa](comparative-roc-curve-for-models.png)
 
